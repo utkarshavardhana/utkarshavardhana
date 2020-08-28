@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving myself mentally and physically.
+- 🔭 I’m currently looking for open SDE positions.
 - 🌱 I’m currently learning about some really special Data Structures.
 - 👯 I’m looking to collaborate on something exciting.
 - 🤔 I’m looking for help with a referral at a product based company as an SDE/SWE.
