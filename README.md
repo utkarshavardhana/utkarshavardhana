@@ -9,6 +9,11 @@
 - React + Express + Supabase | AI insights | Real-time market data
 - [Live Demo](https://heirly.vercel.app)
 
+**[Tinkerbit](https://github.com/utkarshavardhana/tinkerbit)** — Daily puzzle hub with 22 brain games
+- Streaks, achievements, per-game leaderboards, cross-device sign-in, admin analytics dashboard
+- React + Vite + Fastify + Turso | Magic-link auth | PWA with offline service worker
+- [Live Demo](https://tinkerbit.vercel.app)
+
 **[UPS Management](https://github.com/utkarshavardhana/ups-management)** - School ERP System
 - Complete school management: attendance, exams, fees, report cards
 - 4 user roles | 42 database tables | PWA
