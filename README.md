@@ -14,6 +14,12 @@
 - React + Vite + Fastify + Turso | Magic-link auth | PWA with offline service worker
 - [Live Demo](https://tinkerbit.vercel.app)
 
+**[nurtureyourcells](https://github.com/utkarshavardhana/nurtureyourcells)** — Dietitian's site with bookings and a public health snapshot tool
+  - Blog publishing with rich-text + inline image editing, image/video posts, Instagram embeds
+  - Public BMI/WHR/BP/sugar/thyroid/lipid snapshot vs clinical ranges, shared with the dietitian on booking
+  - React + Vite + Fastify + Turso | Magic-link auth | Free Jitsi video consultations
+  - [Live Demo](https://nurtureyourcells.vercel.app)
+
 **[UPS Management](https://github.com/utkarshavardhana/ups-management)** - School ERP System
 - Complete school management: attendance, exams, fees, report cards
 - 4 user roles | 42 database tables | PWA
