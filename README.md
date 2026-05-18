@@ -25,6 +25,12 @@
 - 4 user roles | 42 database tables | PWA
 - [Live Demo](https://ups-management.vercel.app)
 
+**[satyendranarayansingh](https://github.com/utkarshavardhana/satyendranarayansingh)** — A Hindi writer's home for personal essays, history, and literature
+  - Bilingual EN/हिं UI with Tiro Devanagari serif typography; long-form reading with TOC, footnotes, drop-caps
+  - Series, topics, year archive; per-essay search, pagination, and rich link previews (OG cards) for WhatsApp/X
+  - React + Vite + Fastify + Turso | Magic-link + device-code auth | Public + family-only visibility
+  - [Live Demo](https://satyendranarayansingh.vercel.app)
+
 #### 💻 Tech
 `React` `Node.js` `PostgreSQL` `TypeScript` `Java` `C++` `Scala` `AWS`
 
