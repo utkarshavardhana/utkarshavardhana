@@ -4,6 +4,13 @@
 
 #### 🚀 Weekend Projects
 
+**[SSPUR](https://github.com/utkarshavardhana/sspur)** - A programming language built for AI agents to write, read, and maintain
+- Compiles to native code that beats C++ -O2 on every benchmark (0.16x to 0.88x runtime), with GPU kernels, SIMD and multi-core
+- Effects, contracts and ownership checked by the compiler; Z3-verified contracts; packages pinned by content hash
+- Agents use 0.66x to 0.83x the tokens of Python on multi-step tasks; ships an MCP server and a Claude Code plugin
+- Rust | Homebrew + 4-platform releases | One-command AWS deploys with least-privilege IAM from effects
+- [Docs](https://utkarshavardhana.github.io/sspur/)
+
 **[Heirly](https://github.com/utkarshavardhana/heirly)** - Family Office Dashboard for Ultra HNIs
 - Track multi-generational wealth across assets, liabilities, nominees
 - React + Express + Supabase | AI insights | Real-time market data
@@ -32,7 +39,7 @@
   - [Live Demo](https://satyendranarayansingh.vercel.app)
 
 #### 💻 Tech
-`React` `Node.js` `PostgreSQL` `TypeScript` `Java` `C++` `Scala` `AWS`
+`React` `Node.js` `PostgreSQL` `TypeScript` `Java` `C++` `Scala` `Rust` `AWS`
 
 #### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/utkarsha-vardhana)
